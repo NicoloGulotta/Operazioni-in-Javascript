@@ -15,8 +15,7 @@ REGOLE
 NUMBERS:Essi sono numeri puri che non presentano apici nella loro scrittura ed in java hanno un range numerico elevatissimo.
 UNDEFINED:E' un valore che non è ancora stato definito.)NULL:E' un variabile vuota anche anche se definita.
 FUNZIONI:Blocco di codice che può esser eseguito direttamente, esso è NON-DATA.
-BOOLEAN:E' un entita
-à logica
+BOOLEAN: E' un entita logica ovvero variabili che possono assumere solo i valori vero e falso.
 ARRAY:Crea un elenco di elementi dello steso tipo.*/
 
 /* ESERCIZIO 2
